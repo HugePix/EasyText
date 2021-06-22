@@ -1,0 +1,2 @@
+# EasyText
+text editor
